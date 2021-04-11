@@ -1,0 +1,11 @@
+hello world!!
+// hey it's a comment skip this part
+/*
+    hey 
+    these 
+    lines are 
+    commented! skip them
+
+*/
+hey, it's siddharth
+hey hey hey!!!
